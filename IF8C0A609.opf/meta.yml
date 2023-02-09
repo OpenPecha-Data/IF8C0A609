@@ -1,0 +1,16 @@
+id: IF8C0A609
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 15:12:17.426847
+last_modified: 2023-02-09 15:12:17.427085
+source_metadata:
+  title: 'MSV 1,17: Saṃghabhedavastu'
+  language: bo
+bases:
+  ED63:
+    base_file: ED63.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
